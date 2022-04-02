@@ -1,0 +1,40 @@
+body {background-image:url(https://stringfixer.com/files/87643244.jpg)}
+
+    body {background-color:black;}
+
+    
+    li  {color: rgb(252, 255, 90);/* Muda a cor da fonte */
+        font-size: 14px; /* Muda o tamanho da fonte */
+        margin: 0 46%;}  /* espaço ao redor(margem) nesse caso foi definido as margens superior e inferior 0 e
+        as as margens direita e esquerda 46%*/ 
+
+        p {
+            margin-top: 50px; /*margem superior*/
+            margin-bottom: 50 px; /*margem inferior*/
+            text-align: center;/*especifica o alinhamento horizontal do texto em um elemento(center/left/right/justify)*/
+            color: white;
+        }
+    
+
+    #titulo {
+            color: red;
+            font-size: 40px;
+            margin-bottom: 20px;
+            text-align: center;
+
+        }
+    #frase-mot{
+        font-size: 20px;
+        color: white;
+        text-align: center;
+    }
+    #imagem-legal { 
+            width: 200px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto
+    }
+    #bordinha{border-style: solid;
+    
+    }
+    
